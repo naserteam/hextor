@@ -287,7 +287,9 @@ function create_config( )
 !br [group_id] [text]
 =======================
 ⚙ادمین 
-@mianco
+@KALILINUXNEW
+چنل
+@KALILINUXNEWS
 ]],
     help_text = [[
 📝 ليست دستورات مدیریتی :
@@ -390,7 +392,9 @@ filterlist
 !help
 ~~~~~~~~~~~~~~~~~~~~~
 🔰ادمین ربات🔰
-@minaco
+@KALILINUXBOT
+چنل
+@KALILINUXNEWS
 
 ]]
     }
